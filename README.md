@@ -125,6 +125,8 @@ const isTimeSlotAvailable = (dateStr, timeSlot, availabilities) => {
   });
 };
 ```
+## Source code
+The source code is in src folder and it also has the package.json file in it.
 
 ## Styling
 
